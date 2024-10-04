@@ -1,0 +1,233 @@
+* {
+    max-width: 1903px;
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.center{
+    margin: auto;
+}
+
+#menu-h{
+    position: absolute;
+    width: 1920px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+
+    background: #14A350;
+    box-shadow: -10px 0px 18px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 30px 30px;
+}
+
+#menu-h > a{
+    text-decoration: none;
+}
+
+#menu-h > a:hover{
+    text-decoration: underline;
+}
+
+#menu-h .header_laprosos:hover{
+    text-decoration: none;
+}
+
+#menu-h .header_laprosos {
+    position: absolute;
+    width: 309px;
+    height: 63px;
+    left: 45px;
+    top: 17px;
+
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 63px;
+
+    color: #FAFAFA;
+}
+
+
+#menu-h .header_home {
+    position: absolute;
+    width: 98px;
+    height: 43px;
+    left: 1198px;
+    top: 27px;
+
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+
+    color: #FAFAFA;
+}
+
+#menu-h .header_products {
+    position: absolute;
+    width: 137px;
+    height: 43px;
+    left: 1354px;
+    top: 27px;
+    
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+    color: #FAFAFA;
+}
+
+#menu-h .header_about {
+    position: absolute;
+    width: 98px;
+    height: 43px;
+    left: 1549px;
+    top: 27px;
+    
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+    color: #FAFAFA;
+}
+#menu-h .header_contacts {
+    position: absolute;
+    width: 131px;
+    height: 43px;
+    left: 1705px;
+    top: 27px;
+    
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    
+    color: #FAFAFA;
+}
+
+#footer-h{
+    position: absolute;
+    width: 1920px;
+    height: 400px;
+    left: 0px;
+    top: 2440px;
+
+    background: #14A350;
+    box-shadow: -10px -8px 102px rgba(0, 0, 0, 0.25);
+    border-radius: 30px 30px 0px 0px;
+}
+
+.div_footer_laprosos{
+    text-align: center;
+    color: #FAFAFA;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 63px;
+    margin-top: 70px;
+}
+
+.div_footer_rest{
+    text-align: center;
+    color: #FAFAFA;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 53px;
+    margin-top: 82px;
+
+}
+
+.footer_laprosos{
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+.footer_home{
+    color: #FAFAFA;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.footer_products{
+    color: #FAFAFA;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.footer_about{
+    color: #FAFAFA;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.footer_contacts{
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+.flaticon{
+    text-align: center;
+    color: #FAFAFA;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 39px;
+    margin-top: 44px;
+}
+
+.bar_home{
+    position: absolute;
+    width: 140px;
+    height: 0px;
+    left: 602px;
+    top: 175px;
+    background: #FAFAFA;
+    border: 6px solid #FAFAFA;
+    border-radius: 32px;
+}
+
+.bar_products{
+    position: absolute;
+    width: 140px;
+    height: 0px;
+    left: 775px;
+    top: 175px;
+    background: #FAFAFA;
+    border: 6px solid #FAFAFA;
+    border-radius: 32px;
+}
+.bar_about{
+    position: absolute;
+    width: 140px;
+    height: 0px;
+    left: 950px;
+    top: 175px;
+    background: #FAFAFA;
+    border: 6px solid #FAFAFA;
+    border-radius: 32px;
+}
+
+.bar_contacts{
+    position: absolute;
+    width: 140px;
+    height: 0px;
+    left: 1120px;
+    top: 175px;
+    background: #FAFAFA;
+    border: 6px solid #FAFAFA;
+    border-radius: 32px;
+}
